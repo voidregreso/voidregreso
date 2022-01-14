@@ -48,7 +48,7 @@
 
 🌱 Agora estou extremamente ocupado, trocando de emprego entre Espanha, França, Argentina e Brasil, e posso não ter uma resposta para os outros. Portanto, espero que vocês entendam os inconvenientes causados por isto.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidregreso&show_icons=true&locale=fr&layout=compact" alt="voidregreso" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidregreso&show_icons=true&locale=en&layout=compact" alt="voidregreso" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=voidregreso&show_icons=true&locale=fr" alt="voidregreso" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=voidregreso&show_icons=true&locale=en" alt="voidregreso" />
 </p>
